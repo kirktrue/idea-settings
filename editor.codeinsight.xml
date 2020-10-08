@@ -3,4 +3,7 @@
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
+  <component name="RsCodeFoldingSettings">
+    <option name="collapsibleOneLineMethods" value="false" />
+  </component>
 </application>
