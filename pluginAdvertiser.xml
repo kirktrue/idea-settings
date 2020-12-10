@@ -739,14 +739,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.rs">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.rust.lang" />
-              <option name="myPluginName" value="Rust" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.sh">
           <value>
             <plugin>
@@ -843,14 +835,6 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.toml">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -1070,14 +1054,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="Cargo.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -1115,22 +1091,6 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="Gopkg.lock">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="Pipfile">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.toml.lang" />
-              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -1189,11 +1149,6 @@
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
-                    </value>
-                  </entry>
-                  <entry key="CargoCommandRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -1256,19 +1211,9 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
-                  <entry key="WasmPackCommandRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
-                    </value>
-                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
-                    </value>
-                  </entry>
-                  <entry key="docker-deploy">
-                    <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                 </map>
