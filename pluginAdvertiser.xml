@@ -9,22 +9,22 @@
                 <map>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
+                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidJUnit">
                     <value>
-                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AntRunConfiguration">
@@ -40,6 +40,11 @@
                   <entry key="CargoCommandRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
+                  <entry key="ComposePreviewRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -134,22 +139,22 @@
                 <map>
                   <entry key="android">
                     <value>
-                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="android-gradle">
                     <value>
-                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="java-gradle">
                     <value>
-                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="kotlin-language">
@@ -159,7 +164,7 @@
                   </entry>
                   <entry key="native-android-gradle">
                     <value>
-                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                 </map>
