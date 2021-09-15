@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/dev/beacon" />
+        <option value="$USER_HOME$/dev/kirktrue" />
       </list>
     </option>
   </component>
